@@ -1,0 +1,6 @@
+{
+  "name": "Binance Futures Trading Bot Terminal",
+  "description": "A full-stack Binance Futures trading bot dashboard and CLI simulator supporting Market, Limit, and Stop-Limit orders, logs, and Git repository setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
